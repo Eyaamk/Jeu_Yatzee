@@ -14,7 +14,7 @@ Comptabilisation des points pour chaque joueur
 
 Présentation du tableau des scores en fin de partie
 
-Technologies et Bibliothèques
+### Technologies et Bibliothèques
 
 Python 3
 
